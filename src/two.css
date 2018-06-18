@@ -1,0 +1,16 @@
+::-webkit-input-placeholder {
+  color: gray;
+}
+:-ms-input-placeholder {
+  color: gray;
+}
+::-ms-input-placeholder {
+  color: gray;
+}
+::placeholder {
+  color: gray;
+}
+h1 {
+  color: red;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvdXIuY3NzIiwidHdvLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFlBQVk7Q0FDYjtBQUNEO0VBQ0UsWUFBWTtDQUNiO0FBQ0Q7RUFDRSxZQUFZO0NBQ2I7QUFDRDtFQUNFLFlBQVk7Q0FDYjtBQ1REO0VBQ0UsV0FBVztDQUNaIiwiZmlsZSI6InR3by5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyI6Oi13ZWJraXQtaW5wdXQtcGxhY2Vob2xkZXIge1xuICBjb2xvcjogZ3JheTtcbn1cbjotbXMtaW5wdXQtcGxhY2Vob2xkZXIge1xuICBjb2xvcjogZ3JheTtcbn1cbjo6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHtcbiAgY29sb3I6IGdyYXk7XG59XG46OnBsYWNlaG9sZGVyIHtcbiAgY29sb3I6IGdyYXk7XG59XG4iLCJoMSB7XG4gIGNvbG9yOiByZWQ7XG59XG4iXX0= */
